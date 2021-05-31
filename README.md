@@ -94,7 +94,7 @@ $ npm start
 <p align='center'>
   <span>
       <image width="400" src='https://user-images.githubusercontent.com/74039235/117496299-0d242480-afa1-11eb-8714-d156080b080b.jpg' />
-      <image width="400" src='https://user-images.githubusercontent.com/74039235/117530610-3e840b00-b008-11eb-8efd-fb08a1492237.jpg' />
+      <image width="400" src='https://user-images.githubusercontent.com/74039235/120167484-ff706080-c227-11eb-902a-066ec99c4aa1.jpg' />
       <image width="400" src='https://user-images.githubusercontent.com/74039235/117530743-147f1880-b009-11eb-8c05-3557a42ebe98.jpg' />
       <image width="400" src='https://user-images.githubusercontent.com/74039235/117561786-13f78800-b0c4-11eb-931a-320987705051.jpg' />
       <image width="400" src='https://user-images.githubusercontent.com/74039235/117561859-a26c0980-b0c4-11eb-9dec-0d85acdf6e6c.jpg' />
